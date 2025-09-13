@@ -39,13 +39,13 @@ Here are a few screenshots to give you a quick tour:
 > 
 
 - **Client Overview & Analytics**  
-  ![Client Overview](screenshots/client_overview.png)
+  ![Client Overview](client_overview.png)
 
 - **Calculator Dashboard**  
-  ![Trainer Performance](screenshots/Calculator.png)
+  ![Trainer Performance](Calculator.png)
 
 - **Trend Analysis & Filters**  
-  ![Trend & Filters](screenshots/Members.png)
+  ![Trend & Filters](Members.png)
 )
 
 ---
